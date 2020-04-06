@@ -1,4 +1,6 @@
-Welcome to the Book Club app! In this application, you can create a group of readers and add books to your club list so you can read along and compete against eachother. Simply type in the name of a member, and click 'Add'. To remove a member, click the 'x' located next to each member name. If you want to add a book, type in the Title, Description, Length, and a URL for the book cover. Happy reading!
+Welcome to the Inventory Management App! In this application, you can create a group of users and add tools to your inventory list so you can track your inventory. Simply type in the name of a user, and click 'Add'. To remove a user, click the 'x' located next to each user name. If you want to add a tool, type in the Name, Checkout Date, Check In Date, and a URL for the image URL. Happy tracking!
+
+If you want to run, git init, git start.
 
 JC1989 @ 2020
 
