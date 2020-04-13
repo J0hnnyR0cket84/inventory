@@ -12,8 +12,8 @@ const BookItem = ({book, deleteBook}) => {
                     <Pictures image={book.image}/>
                     <div className="card-body">
                         <h5 className="card-title">{book.title}</h5>
-                        <p className="card-text">{book.description}</p>
-                        <p className='card-text'>pages: {book.pages}</p>
+                        <p className="card-text">CheckOut Date: {book.description}</p>
+                        <p className='card-text'>CheckIn Date: {book.pages}</p>
                         <a href="/" className="btn btn-primary">View Equipment</a>
                         <button className="btn btn-danger ml-4" onClick={() => deleteBook(book.id)}>Delete</button>
                     </div>
